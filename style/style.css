@@ -1,0 +1,15 @@
+p{
+  color: #ff0000;
+
+}
+
+h1, h2, h3 {
+  color: #0000ff;
+  font-family: sans-serif;
+}
+h1{
+  font-size: 28px;
+}
+li{
+  color: #00ff00;
+}
